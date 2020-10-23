@@ -1,1 +1,1 @@
-source code of my portfolio
+source code of our portfolio
